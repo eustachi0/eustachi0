@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="./circular_profile_pic.png" alt="Girl in a jacket" width="150" height="150"></div>
+<div align="center"><img src="./circular_profile_pic.png" alt="Girl in a jacket" width="175" height="175"></div>
 <h1 align="center">Hi 👋, I'm Eustachio</h1>
 <h3 align="center">An aspiring passionate frontend developer from the UK</h3>
 
