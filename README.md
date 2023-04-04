@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Eustachio</h1>
 <h3 align="center">A frontend developer from the UK</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, Remix, Qwik and Vendure as my backend for ecommerce**
-- 🔭 I'm currently working in the Advertising and Marketing industry as a 3D content creator. **My goal is to complement my current work with frontend web development and to specialized on ecommerce sites.**
+- 🌱 I’m currently working with **JavaScript, React, Remix, and PayloadCMS**
+- 🔭 I'm currently working in the Advertising and Marketing industry as a 3D content creator. **My goal is to complement my current work with frontend web development and to specialize in building dinamic websites and/or webapps.**
 
 ---
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Tools:</h3>
 
-<p>React • Remix • QwikDev • Tailwind • Bootstrap • Tailwind • Git • PostgreSQL • Bash • Powershell • Linux • Windows • GrapgQL • Nginx • Caddy • Blender • Maya • Houdini VFX • Unreal Engine • Maxon Redshift • Otoy Octane</p>
+<p>React • Remix • PayloadCMS • Tailwind • Bootstrap • Tailwind • Git • PostgreSQL • Bash • Powershell • Linux • Windows • GrapgQL • Nginx • Caddy • Blender • Maya • Houdini VFX • Unreal Engine • Otoy Octane</p>
 
 ----
 <h3 align="left">Some projects I've done for the HyperionDev Frontend Bootcamp:</h3>
