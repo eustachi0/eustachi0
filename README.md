@@ -1,6 +1,6 @@
 <div align="center"><img src="./circular_profile_pic.png" alt="Girl in a jacket" width="175" height="175"></div>
 <h1 align="center">Hi 👋, I'm Eustachio</h1>
-<h3 align="center">An aspiring passionate frontend developer from the UK</h3>
+<h3 align="center">A frontend developer from the UK</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, Remix, Qwik and Vendure as my backend for ecommerce**
 - 🔭 I'm currently working in the Advertising and Marketing industry as a 3D content creator. **My goal is to complement my current work with frontend web development and to specialized on ecommerce sites.**
