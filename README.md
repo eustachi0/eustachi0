@@ -20,20 +20,6 @@
 
 <p>React • Remix • PayloadCMS • Tailwind • Bootstrap • Tailwind • Git • PostgreSQL • Bash • Powershell • Linux • Windows • GrapgQL • Nginx • Caddy • Blender • Maya • Houdini VFX • Unreal Engine • Otoy Octane</p>
 
-----
-<h3 align="left">Some projects I've done for the HyperionDev Frontend Bootcamp:</h3>
-
-<p>- 
-<a href="https://github.com/eustachi0/finalCapstone" target="blank">Hobbies/Articles Website</a>
-</p>
-<p>- 
-<a href="https://github.com/eustachi0/finalCapstone/tree/bookStore" target="blank">Book Store</a>
-</p>
-<p>- 
-<a href="https://github.com/eustachi0/finalCapstone/tree/shoppingList" target="blank">Shopping List</a>
-</p>
-
-----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eustachi0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eustachi0" height="30" width="40" /></a>
