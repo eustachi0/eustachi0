@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer from the UK</h3>
 
 - 🌱 I’m currently working/;earning with **JavaScript, Typescript React, Remix, and PayloadCMS**
-- 🔭 I'm currently working in the Advertising and Marketing industry as a 3D content creator. **My goal is to complement my current work with frontend web development and to specialize in building dinamic websites and/or webapps.**
+- 🔭 I'm currently working in the Advertising and Marketing industry as a 3D content creator. **My goal is to complement my current work with frontend web development and to specialize in building dinamic headless websites and webapps.**
 
 ---
 
