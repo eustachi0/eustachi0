@@ -18,7 +18,7 @@
 
 <h3 align="left">Tools:</h3>
 
-<p>React • Remix • PayloadCMS • Tailwind • Bootstrap • Tailwind • Git • PostgreSQL • Bash • Powershell • Linux • Windows • GrapgQL • Nginx • Caddy • Blender • Maya • Houdini VFX • Unreal Engine • Otoy Octane</p>
+<p>React • NextJS • Qwik • Remix • PayloadCMS • Tailwind • Panda CSS • Tailwind • Git • PostgreSQL • Bash • Powershell • Linux • Windows • GraphQL • Nginx • Caddy • Blender • Maya • Houdini VFX • Unreal Engine • Otoy Octane</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
