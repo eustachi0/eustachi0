@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages</h3>
     <ul> 
         <li>JavaScript</li>
         <li>CSS</li>
@@ -16,11 +16,11 @@
 
 ----
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools</h3>
 
 <p>React • NextJS • Qwik • Remix • PayloadCMS • Tailwind • Panda CSS • Tailwind • Git • PostgreSQL • Bash • Powershell • Linux • Windows • GraphQL • Nginx • Caddy • Blender • Maya • Houdini VFX • Unreal Engine • Otoy Octane</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/eustachi0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eustachi0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eustachiodipaola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eustachiodipaola/" height="30" width="40" /></a>
